@@ -1,9 +1,9 @@
 .W_main{background:#19172B !important}
 .gn_bg {background:none !important} 
 /*#pl_leftnav_group {overflow:scroll;position:fixed;top:0}*/
-.W_main_l {top:0;float:none;overflow:scroll !important;position:fixed;height:100%;left:80px;z-index:999999};
+.W_main_l {top:0;float:none;overflow:scroll !important;position:fixed;height:100%;left:80px;z-index:9999}
 .W_main_a{width:980px !important}
-.W_main_c {width:750px !important}
+.W_main_c {width:745px !important}
 #pl_leftnav_common>div.level_1_Box{font-size:12px;margin-bottom:30px}
 #pl_leftnav_common>div.level_1_Box>div.lev { padding-left:20px;height:20px !important;}
 #pl_leftnav_common>div.level_1_Box>div.lev>*{ padding:10px 0 !important; height:auto !important}
